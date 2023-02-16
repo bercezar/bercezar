@@ -13,12 +13,12 @@
   srcset="https://github-readme-stats.vercel.app/api?username=bercezar&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=bercezar&show_icons=true" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=bercezar&show_icons=true" />
 </picture>
 
 <div>
   <a href="https://github.com/bercezar">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercezar&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercezar&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
