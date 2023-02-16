@@ -6,7 +6,7 @@
  
  <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=bercezar&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=bercezar&show_icons=true&theme=dracula"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -18,7 +18,7 @@
 
 <div>
   <a href="https://github.com/bercezar">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercezar&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercezar&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
