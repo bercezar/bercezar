@@ -9,7 +9,6 @@
   <a href="https://github.com/bercezar">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercezar&hide_progress=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercezar&layout=compact&theme=dracula"/>
-   
 </div>
 
 
