@@ -6,7 +6,7 @@
 🕹️ - Gosto de jogos e de músicas 🤘🏻
 
  <div>
-  <a href="https://github.com/bercezar/github-readme-stats)">
+  <a href="https://github.com/bercezar">
   <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bercezar&layout=compac&theme=dracula "/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercezar&layout=compact&theme=dracula"/>
 </div>
