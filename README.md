@@ -4,7 +4,7 @@
 
 - 👨‍💻 Estudante de Sistemas de Informação na UniLaSalle-RJ.
 - 🏴‍☠️ Back-End
-- 🏠 Moro em Niterói, RJ, Brasil.
+- 🏠 Moro em Niterói-RJ.
 - 🌱 Apaixonado por tecnologia e sempre em busca de aprendizado.
 - 🚀 Buscando evoluir constantemente minhas habilidades em desenvolvimento.
 - 🎮 Amante de jogos e entusiasta de músicas para focar no código.
