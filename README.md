@@ -3,10 +3,10 @@
 ## Sobre mim
 
 - 👨‍💻 Estudante de Sistemas de Informação na UniLaSalle-RJ.
+- 🏴‍☠️ Back-End
 - 🏠 Moro em Niterói, RJ, Brasil.
 - 🌱 Apaixonado por tecnologia e sempre em busca de aprendizado.
 - 🚀 Buscando evoluir constantemente minhas habilidades em desenvolvimento.
-- 💻 Experiência em HTML, CSS, JavaScript, Python e mais.
 - 🎮 Amante de jogos e entusiasta de músicas para focar no código.
 
 ## Minhas Paixões
