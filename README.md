@@ -25,7 +25,7 @@
   <a href="https://github.com/bercezar">
   <img height="150em" width="440em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercezar&layout=compact"/>
 </div>
-
+<img align="center" src="https://camo.githubusercontent.com/d1b0129……636f6d7…" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercezar&layout=compact&theme=react&hide_border=false" style="max-width: 100%;">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="BERNARDO-Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
