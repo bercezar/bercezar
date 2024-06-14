@@ -1,9 +1,25 @@
-# Oi!! Sou Bernardo Cezar, e bem vindo ao meu perfil! 🙂😉
+# Olá! Eu sou Bernardo Cezar, bem-vindo ao meu perfil! 👋
 
-👨‍💻 - Aluno de Sistemas de informação na UniLaSalle-RJ <br>
-🏠 - Moro em Niterói, RJ - Brasil <br>
-↗️ - Sempre em evolução <br>
-🕹️ - Gosto de jogos e de músicas 🤘🏻
+## Sobre mim
+
+- 👨‍💻 Estudante de Sistemas de Informação na UniLaSalle-RJ.
+- 🏠 Moro em Niterói, RJ, Brasil.
+- 🌱 Apaixonado por tecnologia e sempre em busca de aprendizado.
+- 🚀 Buscando evoluir constantemente minhas habilidades em desenvolvimento.
+- 💻 Experiência em HTML, CSS, JavaScript, Python e mais.
+- 🎮 Amante de jogos e entusiasta de músicas para focar no código.
+
+## Minhas Paixões
+
+- 💡 Resolvendo problemas com código.
+- 🌐 Explorando novas tecnologias e frameworks.
+- 📚 Compartilhando conhecimento e aprendendo com a comunidade.
+
+## Onde me encontrar
+
+- <a href ="mailto:b.cezar1812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+- <a href="https://www.linkedin.com/in/bernardo-cezar-1a56a4293/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- <a href="https://instagram.com/ber_cezar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
  <div>
   <a href="https://github.com/bercezar">
@@ -19,8 +35,4 @@
   <img align="center" alt="BERNARDO-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
 
-
-<a href ="mailto:b.cezar1812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/bernardo-cezar-1a56a4293/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://instagram.com/ber_cezar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
