@@ -26,6 +26,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercezar&layout=compact"/>
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bercezar&theme=dark)](https://git.io/streak-stats)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="BERNARDO-Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="BERNARDO-C" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />        
