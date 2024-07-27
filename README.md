@@ -4,16 +4,10 @@
 
 - 👨‍💻 Estudante de Sistemas de Informação na UniLaSalle-RJ.
 - 🏴‍☠️ Back-End
-- 🏠 Moro em Niterói-RJ.
+- 🏠 Niterói-RJ.
 - 🌱 Apaixonado por tecnologia e sempre em busca de aprendizado.
 - 🚀 Buscando evoluir constantemente minhas habilidades em desenvolvimento.
 - 🎮 Amante de jogos e entusiasta de músicas para focar no código.
-
-## Minhas Paixões
-
-- 💡 Resolvendo problemas com código.
-- 🌐 Explorando novas tecnologias e frameworks.
-- 📚 Compartilhando conhecimento e aprendendo com a comunidade.
 
 ## Onde me encontrar
 
@@ -22,17 +16,13 @@
 - <a href="https://instagram.com/ber_cezar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ## Atividades
- <div height="150em" width="440em>
-  <a href="https://github.com/bercezar">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercezar&layout=compact"/>
-</div>
  <div>
   <a href="https://github.com/bercezar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bercezar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercezar&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bercezar&theme=vue)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bercezar&theme=radical)](https://git.io/streak-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="BERNARDO-Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
