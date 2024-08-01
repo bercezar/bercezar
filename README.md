@@ -27,8 +27,8 @@
 - <a href="https://instagram.com/ber_cezar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ## Atividades
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercezar&layout=compact&langs_count=7&theme=radical"/>
-<img height="170em" src="https://streak-stats.demolab.com/?user=bercezar&theme=radical"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercezar&layout=compact&langs_count=7&theme=radical"/>
+<img height="175em" src="https://streak-stats.demolab.com/?user=bercezar&theme=radical"/>
 
 
 
