@@ -28,6 +28,7 @@
 
 ## Atividades
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercezar&layout=compact&langs_count=7&theme=radical"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bercezar&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <img height="175em" src="https://streak-stats.demolab.com/?user=bercezar&theme=radical"/>
 
 
