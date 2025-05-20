@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 👨‍💻 Sistemas de Informação na UniLaSalle-RJ.
-- 🏴‍☠️ Back-End | DataBase 
+- 🏴‍☠️ Back-End | DataBase | Dev | Tech
 - 🏠 Niterói-RJ.
 - 🌱 Apaixonado por tecnologia e sempre em busca de aprendizado.
 - 🚀 Buscando evoluir constantemente minhas habilidades em desenvolvimento.
