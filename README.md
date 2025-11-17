@@ -22,8 +22,7 @@
 </div>
 
 ## Stacks:
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img align="center" alt="BERNARDO-ty" height="110" width="120" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   
   <img align="center" alt="BERNARDO-js" height="110" width="120" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   
@@ -33,10 +32,9 @@
   
   <img align="center" alt="BERNARDO-py" height="110" width="120" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   
-  <img align="center" alt="BERNARDO-c" height="110" width="120" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   
-  <img align="center" alt="BERNARDO-java" height="110" width="120" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<div>
+<img align="center" alt="BERNARDO-java" height="110" width="120" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   
 ## Onde me encontrar
 
