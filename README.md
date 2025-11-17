@@ -23,8 +23,9 @@
 
 ## Stacks:
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+  <img align="center" alt="BERNARDO-MySQL" height="70" width="80" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <div>
+  
 ## Onde me encontrar
 
 - <a href ="mailto:b.cezar1812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
