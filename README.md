@@ -23,7 +23,7 @@
 
 ## Stacks:
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img align="center" alt="BERNARDO-MySQL" height="100" width="110" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="BERNARDO-MySQL" height="110" width="120" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <div>
   
 ## Onde me encontrar
