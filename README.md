@@ -29,9 +29,5 @@
 <a href="https://instagram.com/ber_cezar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ## Atividades
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bercezar&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Bernardo Cezar github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercezar&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=bercezar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
