@@ -28,6 +28,5 @@
 <a href="https://www.linkedin.com/in/bernardo-cezar-1a56a4293/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/ber_cezar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-## Atividades
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=bercezar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
