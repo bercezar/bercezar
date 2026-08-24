@@ -22,6 +22,8 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
 
+<img src="data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bercezar&theme=github_dark"
+
 ## Onde me encontrar
 
 <a href ="mailto:b.cezar1812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
