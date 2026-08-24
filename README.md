@@ -22,8 +22,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
 
-<img src="data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bercezar&theme=github_dark"
-
+<img width="48%" src="https://camo.githubusercontent.com/f914af0b7841a63f5c42b01d3257387a546671878f4479104f4bc5ea93b01ad7/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d7061626c6f7a72267468656d653d6769746875625f6461726b" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bercezar&amp;theme=github_dark" style="max-width: 100%;">
 ## Onde me encontrar
 
 <a href ="mailto:b.cezar1812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
