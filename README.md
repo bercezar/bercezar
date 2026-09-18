@@ -12,16 +12,16 @@
 ## Stacks:
 
 <div style="display: flex; gap: 30px; align-items: center;">
-<img src="https://iconic-api.onrender.com/dark/python" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/fastapi" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/js" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/typescript" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/angular" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/react" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/nodejs" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/java" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/postgresql" width="64px" /> 
-<img src="https://iconic-api.onrender.com/dark/redis" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/fastapi" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/js" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/typescript" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/angular" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/react" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/nodejs" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/java" width="64px" />
+  <img src="https://iconic-api.onrender.com/dark/postgresql" width="64px" /> 
+  <img src="https://iconic-api.onrender.com/dark/redis" width="64px" />
 <div>
 
 
