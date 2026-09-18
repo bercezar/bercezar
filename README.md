@@ -15,7 +15,7 @@
 <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/html" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/js" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/ts" width="64px" />  
+<img src="https://iconic-api.onrender.com/dark/java" width="64px" />  
 <div>
 
 
