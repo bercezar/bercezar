@@ -11,7 +11,7 @@
 
 ## Stacks:
 
-<div style="display: flex; gap: 2px; align-items: center;">
+<div style="display: flex; gap: 3px; align-items: center;  padding-bottom: 3px">
 <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/fastapi" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/js" width="64px" />
@@ -22,7 +22,6 @@
 <img src="https://iconic-api.onrender.com/dark/java" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/postgresql" width="64px" /> 
 <img src="https://iconic-api.onrender.com/dark/redis" width="64px" />
-
 <div>
 
 
