@@ -14,8 +14,7 @@ Linguagens & Tecnologias: `TypeScript`, `Node`, `Angular`, `Python`, `FastAPI`, 
 <br/>
 
 
-[<img align="left" height="94px" width="94px" alt="Bagaggio" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCKTc8UmnNAt6K2keugTVNKMfqY7B2Hlbwg&s"/>]
-
+[<img align="left" height="94px" width="94px" alt="Bagaggio" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCKTc8UmnNAt6K2keugTVNKMfqY7B2Hlbwg&s"/>](https://rocketseat.com.br/)
 **Front-end Developer** \
 [**Rocketseat**](https://www.linkedin.com/company/bagaggio/posts/?feedView=all) • Contract \
 Linguagens & Tecnologias: `TypeScript`, `Node`, `Angular`, `Python`, `FastAPI`, `PostgreSQL`, `Docker`, `RabbitMQ`, `Redis`\
