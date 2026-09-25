@@ -11,7 +11,7 @@
 **Frot-end Dev (Estágio)** \
 [**Bagaggio**](https://www.linkedin.com/company/bagaggio/posts/?feedView=all) • Contract \
 Linguagens & Tecnologias: `TypeScript`, `Node`, `Angular`, `Python`, `FastAPI`, `PostgreSQL`, `Docker`\
-<br/>]
+<br/>
 
 
 ## Stacks:
