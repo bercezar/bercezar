@@ -7,7 +7,7 @@
 - 🏠 Niterói-RJ.
 
 
-[<img align="left" height="94px" width="94px" alt="Bagaggio" src="https://brandfetch.com/bagaggio.com.br?view=library&library=default&collection=logos&asset=id_dmD3Ynq&utm_source=https%253A%252F%252Fbrandfetch.com%252Fbagaggio.com.br&utm_medium=copyAction&utm_campaign=brandPageReferral"/>]
+[<img align="left" height="94px" width="94px" alt="Bagaggio" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCKTc8UmnNAt6K2keugTVNKMfqY7B2Hlbwg&s"/>]
 **Frot-end Dev (Estágio)** \
 [**Bagaggio**](https://www.linkedin.com/company/bagaggio/posts/?feedView=all) • Contract \
 Linguagens & Tecnologias: `TypeScript`, `Node`, `Angular`, `Python`, `FastAPI`, `PostgreSQL`, `Docker`\
