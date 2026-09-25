@@ -14,7 +14,6 @@ Linguagens & Tecnologias: `TypeScript`, `Node`, `Angular`, `Python`, `FastAPI`, 
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCKTc8UmnNAt6K2keugTVNKMfqY7B2Hlbwg&s"/>]
-
 **Frot-end Dev** \
 [**Bagaggio**](https://www.linkedin.com/company/bagaggio/posts/?feedView=all) • Estágio \
 Linguagens & Tecnologias: `TypeScript`, `Node`, `Angular`, `Python`, `FastAPI`, `PostgreSQL`, `Docker`, `RabbitMQ`, `Redis`\
