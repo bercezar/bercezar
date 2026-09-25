@@ -16,7 +16,7 @@ Linguagens & Tecnologias: `TypeScript`, `Node`, `Angular`, `Python`, `FastAPI`, 
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCKTc8UmnNAt6K2keugTVNKMfqY7B2Hlbwg&s"/>](https://rocketseat.com.br/)
 
-**FroNt-end Developer** \
+**Front-end Developer** \
 [**Rocketseat**](https://www.linkedin.com/company/bagaggio/posts/?feedView=all) • Contract \
 Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
 Projetos em destaque: [Ignite](), [Bootcamp]()
