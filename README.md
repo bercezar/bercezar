@@ -5,9 +5,14 @@
 - 👨‍💻 Sistemas de Informação na UniLaSalle-RJ.
 - 🏴‍☠️ Full-Stack | DataBase | Dev | Tech
 - 🏠 Niterói-RJ.
-- 🌱 Apaixonado por tecnologia e sempre em busca de aprendizado.
-- 🚀 Buscando evoluir constantemente minhas habilidades em desenvolvimento.
-- 🎮 Amante de jogos e entusiasta de músicas para focar no código.
+
+
+[<img align="left" height="94px" width="94px" alt="Bagaggio" src="https://brandfetch.com/bagaggio.com.br?view=library&library=default&collection=logos&asset=id_dmD3Ynq&utm_source=https%253A%252F%252Fbrandfetch.com%252Fbagaggio.com.br&utm_medium=copyAction&utm_campaign=brandPageReferral"/>]
+**Frot-end Dev (Estágio)** \
+[**Bagaggio**](https://www.linkedin.com/company/bagaggio/posts/?feedView=all) • Contract \
+Linguagens & Tecnologias: `TypeScript`, `Node`, `Angular`, `Python`, `FastAPI`, `PostgreSQL`, `Docker`\
+<br/>
+
 
 ## Stacks:
 
