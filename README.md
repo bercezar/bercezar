@@ -8,7 +8,7 @@
 
 [<img align="left" height="94px" width="94px" alt="Bagaggio" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCKTc8UmnNAt6K2keugTVNKMfqY7B2Hlbwg&s"/>](https://www.bagaggio.com.br/institucional/quem-somos)
 **Front-end Developer** \
-[**Rocketseat**](https://www.linkedin.com/company/bagaggio/posts/?feedView=all) • Estágio \
+[**Bagaggio**](https://www.linkedin.com/company/bagaggio/posts/?feedView=all) • Estágio \
 Linguagens & Tecnologias: `TypeScript`, `Node`, `Angular`, `Python`, `FastAPI`, `PostgreSQL`, `Docker`, `RabbitMQ`, `Redis`\
 <br/>
 
