@@ -74,18 +74,16 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <!-- Trodéus e Conquistas do GitHub -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bercezar&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
+  <!-- Card com Gráfico Metrico do GitHub Readme Activity Graph -->
+  <a href="https://github.com/ashutosh00712/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bercezar&theme=github-compact&hide_border=true&area=true" width="98%" />
   </a>
 
   <br/><br/>
 
-  <!-- Card de Estatísticas Gerais em Formato Compacto/Gradiente -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bercezar&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true" width="49%" />
-  
-  <!-- Linguagens em Formato de Gráfico Integrado -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercezar&layout=compact&theme=radical&hide_border=true&hide=html,css" width="47%" />
+  <!-- Linguagens Mais Usadas em Formato Donut/Cards Separados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercezar&layout=donut&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bercezar&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 ### 📫 Onde me encontrar
