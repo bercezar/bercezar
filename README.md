@@ -18,15 +18,6 @@
 ---
 
 ### 💼 Experiência
-[<img align="left" height="94px" width="94px" alt="Bagaggio" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCKTc8UmnNAt6K2keugTVNKMfqY7B2Hlbwg&s"/>](https://www.bagaggio.com.br/institucional/quem-somos)
-**Front-end Developer** \
-[**Bagaggio**](https://www.bagaggio.com.br/institucional/quem-somos) • Estágio \
-Linguagens & Tecnologias: `TypeScript`, `Node`, `Angular`, `Python`, `FastAPI`, `PostgreSQL`, `Docker`, `RabbitMQ`, `Redis`\
-<br/>
-
----
-
-### 💼 Experiência
 
 [<img align="left" height="94px" width="94px" alt="Bagaggio" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCKTc8UmnNAt6K2keugTVNKMfqY7B2Hlbwg&s"/>](https://www.bagaggio.com.br/institucional/quem-somos)
 **Front-end Developer** \
@@ -37,9 +28,9 @@ Linguagens & Tecnologias: `TypeScript`, `Node`, `Angular`, `Python`, `FastAPI`, 
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Grupo Águas do Brasil" src="grupo-aguas-do-brasil.png"/>](https://www.grupoaguasdobrasil.com.br/)
-**Seu cargo aqui** \
+**Automatiom Developer ** \
 [**Grupo Águas do Brasil**](https://www.grupoaguasdobrasil.com.br/) • Estágio \
-Linguagens & Tecnologias: `Angular`, `TypeScript`, `Python`, `FastAPI`, `PostgreSQL`
+Linguagens & Tecnologias: `Python`, `Selenium`, `TIR`, `Azure DevOps`, `Oracle SQL Developer`, `GIT`
 
 <br clear="left"/>
 
