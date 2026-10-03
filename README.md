@@ -29,45 +29,51 @@
 
 ### 🛠️ Stacks & Tecnologias
 
-#### ⚙️ Back-end
-<div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
-  <img src="https://iconic-api.onrender.com/dark/python" width="52px" title="Python" />
-  <img src="https://iconic-api.onrender.com/dark/fastapi" width="52px" title="FastAPI" />
-  <img src="https://iconic-api.onrender.com/dark/nodejs" width="52px" title="Node.js" />
-  <img src="https://iconic-api.onrender.com/dark/express" width="52px" title="Express" />
-  <img src="https://iconic-api.onrender.com/dark/java" width="52px" title="Java" />
-</div>
+## 🧰 Tecnologias & Ferramentas
 
-<br/>
+#### ⚙️ Back-end
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" title="Python" alt="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="60" title="FastAPI" alt="FastAPI">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="60" title="Node.js" alt="Node.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="60" title="Express" alt="Express">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" title="Java" alt="Java">
+</p>
+
+<br>
 
 #### 💻 Front-end
-<div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
-  <img src="https://iconic-api.onrender.com/dark/js" width="52px" title="JavaScript" />
-  <img src="https://iconic-api.onrender.com/dark/typescript" width="52px" title="TypeScript" />
-  <img src="https://iconic-api.onrender.com/dark/angular" width="52px" title="Angular" />
-  <img src="https://iconic-api.onrender.com/dark/react" width="52px" title="React" />
-  <img src="https://iconic-api.onrender.com/dark/tailwind" width="52px" title="Tailwind CSS" />
-</div>
 
-<br/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" title="JavaScript" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" title="TypeScript" alt="TypeScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="60" title="Angular" alt="Angular">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" title="React" alt="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60" title="Tailwind CSS" alt="Tailwind CSS">
+</p>
 
-#### 🗄️ Banco de Dados
-<div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
-  <img src="https://iconic-api.onrender.com/dark/postgresql" width="52px" title="PostgreSQL" />
-  <img src="https://iconic-api.onrender.com/dark/mysql" width="52px" title="MySQL" />
-  <img src="https://iconic-api.onrender.com/dark/redis" width="52px" title="Redis" />
-</div>
+<br>
 
-<br/>
+#### 🗄️ Banco de Dados & Cache
 
-#### 🛠️ DevOps & Ferramentas
-<div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
-  <img src="https://iconic-api.onrender.com/dark/docker" width="52px" title="Docker" />
-  <img src="https://iconic-api.onrender.com/dark/cypress" width="52px" title="Cypress" />
-  <img src="https://iconic-api.onrender.com/dark/vscode" width="52px" title="VS Code" />
-  <img src="https://iconic-api.onrender.com/dark/intellij" width="52px" title="IntelliJ IDEA" />
-  <img src="https://iconic-api.onrender.com/dark/eclipse" width="52px" title="Eclipse" />
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60" title="PostgreSQL" alt="PostgreSQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60" title="MySQL" alt="MySQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="60" title="Redis" alt="Redis">
+</p>
+
+<br>
+
+#### 🛠️ DevOps, Testes & Ferramentas
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60" title="Docker" alt="Docker">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="60" title="Cypress" alt="Cypress">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" title="Visual Studio Code" alt="Visual Studio Code">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="60" title="IntelliJ IDEA" alt="IntelliJ IDEA">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="60" title="Eclipse" alt="Eclipse">
+</p>
 
 ---
 
