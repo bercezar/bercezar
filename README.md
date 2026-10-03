@@ -82,7 +82,7 @@
 <div align="center">
   https://ghstats.dev/api/langs?username=bercezar&theme=forest&max_langs=10&layout=donut
 </div>
-
+![Top Languages](https://ghstats.dev/api/langs?username=bercezar&theme=forest&max_langs=10&layout=donut)
 ---
 
 ### 📫 Onde me encontrar
