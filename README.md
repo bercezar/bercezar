@@ -74,11 +74,19 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bercezar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercezar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-</div>
+  <!-- Trodéus e Conquistas do GitHub -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bercezar&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
+  </a>
 
----
+  <br/><br/>
+
+  <!-- Card de Estatísticas Gerais em Formato Compacto/Gradiente -->
+  <img src="https://github-readme-stats.vercel.app/api?username=bercezar&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true" width="49%" />
+  
+  <!-- Linguagens em Formato de Gráfico Integrado -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercezar&layout=compact&theme=radical&hide_border=true&hide=html,css" width="47%" />
+</div>
 
 ### 📫 Onde me encontrar
 
