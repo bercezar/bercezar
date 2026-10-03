@@ -26,35 +26,6 @@ Linguagens & Tecnologias: `TypeScript`, `Node`, `Angular`, `Python`, `FastAPI`, 
 
 ---
 
-### 💼 Experiência
-
-[<img align="left" height="94px" width="94px" alt="Bagaggio" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCKTc8UmnNAt6K2keugTVNKMfqY7B2Hlbwg&s"/>](https://www.bagaggio.com.br/institucional/quem-somos)
-
-**Front-end Developer** \
-[**Bagaggio**](https://www.bagaggio.com.br/institucional/quem-somos) • Estágio \
-Linguagens & Tecnologias: `TypeScript`, `Node`, `Angular`, `Python`, `FastAPI`, `PostgreSQL`, `Docker`, `RabbitMQ`, `Redis`
-
-<br clear="left"/>
-
-<br/>
-
-<a href="https://www.grupoaguasdobrasil.com.br/">
-  <img
-    align="left"
-    height="94px"
-    alt="Grupo Águas do Brasil"
-    src="./assets/grupo-aguas-do-brasil.png"
-  />
-</a>
-
-**[Seu cargo no Grupo Águas do Brasil]** \
-[**Grupo Águas do Brasil**](https://www.grupoaguasdobrasil.com.br/) • [Tipo de vínculo] \
-Linguagens & Tecnologias: `[Tecnologia]`, `[Tecnologia]`, `[Tecnologia]`
-
-<br clear="left"/>
-
----
-
 ### 🛠️ Stacks
 
 #### ⚙️ Back-end
