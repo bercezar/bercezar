@@ -65,9 +65,7 @@ Linguagens & Tecnologias: `TypeScript`, `Node`, `Angular`, `Python`, `FastAPI`, 
 ---
 
 ### 📊
-<div align="center">
-  ![languages-pie](https://stats.pphat.top/languages?username=bercezar&type=pie)
-</div>
+![languages-pie](https://stats.pphat.top/languages?username=bercezar&type=pie)
 ---
 
 ### 📫 Onde me encontrar
