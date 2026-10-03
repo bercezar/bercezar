@@ -78,7 +78,7 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-![Top Languages](https://ghstats.dev/api/langs?username=bercezar&theme=forest&max_langs=10&layout=donut)
+![Top Languages](https://ghstats.dev/api/langs?username=bercezar&theme=dracula&max_langs=6&layout=donut)
 ---
 
 ### 📫 Onde me encontrar
