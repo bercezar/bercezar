@@ -28,7 +28,7 @@ Linguagens & Tecnologias: `TypeScript`, `Node`, `Angular`, `Python`, `FastAPI`, 
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Grupo Águas do Brasil" src="grupo-aguas-do-brasil.png"/>](https://www.grupoaguasdobrasil.com.br/)
-**Automatiom Developer ** \
+**Automatiom Developer** \
 [**Grupo Águas do Brasil**](https://www.grupoaguasdobrasil.com.br/) • Estágio \
 Linguagens & Tecnologias: `Python`, `Selenium`, `TIR`, `Azure DevOps`, `Oracle SQL Developer`, `GIT`
 
