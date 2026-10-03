@@ -12,27 +12,26 @@
 ### 💻 Sobre mim
 
 - 🎓 **Sistemas de Informação** na UniLaSalle-RJ.
-- 💼 **Web Developer** na **[Bagaggio](https://www.bagaggio.com.br/institucional/quem-somos)**.
 - 🏠 **Niterói - RJ**.
 - ⚡ *"Código sem bugs? Quase nunca, mas sempre na try de melhorar!"*
 
 ---
 
-### 💼 Experiência Atual
+### 💼
+[<img align="left" height="94px" width="94px" alt="Bagaggio" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCKTc8UmnNAt6K2keugTVNKMfqY7B2Hlbwg&s"/>](https://www.bagaggio.com.br/institucional/quem-somos)
 
-[<img align="left" height="64px" width="64px" alt="Bagaggio" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCKTc8UmnNAt6K2keugTVNKMfqY7B2Hlbwg&s"/>](https://www.bagaggio.com.br/institucional/quem-somos)
-**Web / Full-Stack Developer** \
+**Front-end Developer** \
+
 [**Bagaggio**](https://www.linkedin.com/company/bagaggio/posts/?feedView=all) • Estágio \
+
+Linguagens & Tecnologias: `TypeScript`, `Node`, `Angular`, `Python`, `FastAPI`, `PostgreSQL`, `Docker`, `RabbitMQ`, `Redis`\
 <br/>
 
 ---
 
 ### 🛠️ Stacks & Tecnologias
 
-## 🧰 Tecnologias & Ferramentas
-
 #### ⚙️ Back-end
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" title="Python" alt="Python">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="60" title="FastAPI" alt="FastAPI">
@@ -41,10 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" title="Java" alt="Java">
 </p>
 
-<br>
-
 #### 💻 Front-end
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" title="JavaScript" alt="JavaScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" title="TypeScript" alt="TypeScript">
@@ -53,20 +49,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60" title="Tailwind CSS" alt="Tailwind CSS">
 </p>
 
-<br>
-
 #### 🗄️ Banco de Dados & Cache
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60" title="PostgreSQL" alt="PostgreSQL">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60" title="MySQL" alt="MySQL">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="60" title="Redis" alt="Redis">
 </p>
 
-<br>
-
 #### 🛠️ DevOps, Testes & Ferramentas
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60" title="Docker" alt="Docker">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="60" title="Cypress" alt="Cypress">
@@ -78,7 +68,7 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-![Top Languages](https://ghstats.dev/api/langs?username=bercezar&theme=dracula&max_langs=6&layout=donut)
+![Top Languages](https://ghstats.dev/api/langs?username=bercezar&theme=radical&max_langs=6&layout=donut)
 ---
 
 ### 📫 Onde me encontrar
