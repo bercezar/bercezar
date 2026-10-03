@@ -80,8 +80,7 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bercezar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercezar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  ![Top Languages](https://ghstats.dev/api/langs?username=bercezar&theme=forest&max_langs=10&layout=donut)
 </div>
 
 ---
