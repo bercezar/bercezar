@@ -80,7 +80,7 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  ![Top Languages](https://ghstats.dev/api/langs?username=bercezar&theme=forest&max_langs=10&layout=donut)
+  https://ghstats.dev/api/langs?username=bercezar&theme=forest&max_langs=10&layout=donut
 </div>
 
 ---
