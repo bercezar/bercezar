@@ -27,7 +27,7 @@ Linguagens & Tecnologias: `TypeScript`, `Node`, `Angular`, `Python`, `FastAPI`, 
   <img src="https://iconic-api.onrender.com/dark/mysql" width="64px" />
   <img src="https://iconic-api.onrender.com/dark/redis" width="64px" />
 <div>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,angular,typescript,postgresql,docker,git,github,html,css)](https://skillicons.dev)
 
 ![languages-pie](https://stats.pphat.top/languages?username=bercezar&type=pie)
 
