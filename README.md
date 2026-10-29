@@ -36,6 +36,7 @@ Linguagens & Tecnologias: `Python`, `Selenium`, `TIR`, `Azure DevOps`, `Oracle S
 
 ---
 
+
 ### 🛠️ Stacks
 
 #### ⚙️ Back-end
@@ -43,7 +44,7 @@ Linguagens & Tecnologias: `Python`, `Selenium`, `TIR`, `Azure DevOps`, `Oracle S
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" title="Python" alt="Python">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="60" title="FastAPI" alt="FastAPI">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="60" title="Node.js" alt="Node.js">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="60" title="Express" alt="Express">
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" width="60" title="Express" alt="Express">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" title="Java" alt="Java">
 </p>
 
@@ -66,13 +67,14 @@ Linguagens & Tecnologias: `Python`, `Selenium`, `TIR`, `Azure DevOps`, `Oracle S
 #### 🛠️ DevOps, Testes & Ferramentas
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60" title="Docker" alt="Docker">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="60" title="Cypress" alt="Cypress">
+  <img src="https://cdn.simpleicons.org/cypress/FFFFFF" width="60" title="Cypress" alt="Cypress">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" title="Visual Studio Code" alt="Visual Studio Code">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="60" title="IntelliJ IDEA" alt="IntelliJ IDEA">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="60" title="Eclipse" alt="Eclipse">
 </p>
 
 ---
+
 
 ### 📊 Estatísticas
 ![languages-pie](https://stats.pphat.top/languages?username=bercezar&type=pie)
