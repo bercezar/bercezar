@@ -62,6 +62,8 @@ Linguagens & Tecnologias: `Python`, `Selenium`, `TIR`, `Azure DevOps`, `Oracle S
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60" title="PostgreSQL" alt="PostgreSQL">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60" title="MySQL" alt="MySQL">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="60" title="Redis" alt="Redis">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="60" title="RabbitMQ" alt="RabbitMQ">
+
 </p>
 
 #### 🛠️ DevOps, Testes & Ferramentas
