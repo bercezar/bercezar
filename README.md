@@ -46,6 +46,7 @@ Linguagens & Tecnologias: `Python`, `Selenium`, `TIR`, `Azure DevOps`, `Oracle S
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="60" title="Node.js" alt="Node.js">
   <img src="https://cdn.simpleicons.org/express/FFFFFF" width="60" title="Express" alt="Express">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" title="Java" alt="Java">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="60" title="Spring Boot" alt="Spring Boot">
 </p>
 
 #### 💻 Front-end
