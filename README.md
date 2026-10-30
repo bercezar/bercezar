@@ -40,37 +40,37 @@ Linguagens & Tecnologias: `Python`, `Selenium`, `TIR`, `Azure DevOps`, `Oracle S
 
 #### ⚙️ Back-end
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" title="Python" alt="Python" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="60" title="FastAPI" alt="FastAPI" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="60" title="Node.js" alt="Node.js" style="margin-right: 10px;">
-  <img src="https://cdn.simpleicons.org/express/FFFFFF" width="60" title="Express" alt="Express" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" title="Java" alt="Java" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" title="Python" alt="Python" style="margin-right: 30px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="60" title="FastAPI" alt="FastAPI" style="margin-right: 30px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="60" title="Node.js" alt="Node.js" style="margin-right: 30px;">
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" width="60" title="Express" alt="Express" style="margin-right: 30px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" title="Java" alt="Java" style="margin-right: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="60" title="Spring Boot" alt="Spring Boot">
 </p>
 
 #### 💻 Front-end
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" title="JavaScript" alt="JavaScript" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" title="TypeScript" alt="TypeScript" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="60" title="Angular" alt="Angular" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" title="React" alt="React" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" title="JavaScript" alt="JavaScript" style="margin-right: 30px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" title="TypeScript" alt="TypeScript" style="margin-right: 30px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="60" title="Angular" alt="Angular" style="margin-right: 30px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" title="React" alt="React" style="margin-right: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60" title="Tailwind CSS" alt="Tailwind CSS">
 </p>
 
 #### 🗄️ Banco de Dados & Cache
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60" title="PostgreSQL" alt="PostgreSQL" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60" title="MySQL" alt="MySQL" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="60" title="Redis" alt="Redis" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60" title="PostgreSQL" alt="PostgreSQL" style="margin-right: 30px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60" title="MySQL" alt="MySQL" style="margin-right: 30px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="60" title="Redis" alt="Redis" style="margin-right: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="60" title="RabbitMQ" alt="RabbitMQ">
 </p>
 
 #### 🛠️ DevOps, Testes & Ferramentas
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60" title="Docker" alt="Docker" style="margin-right: 10px;">
-  <img src="https://cdn.simpleicons.org/cypress/FFFFFF" width="60" title="Cypress" alt="Cypress" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" title="Visual Studio Code" alt="Visual Studio Code" style="margin-right: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="60" title="IntelliJ IDEA" alt="IntelliJ IDEA" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60" title="Docker" alt="Docker" style="margin-right: 30px;">
+  <img src="https://cdn.simpleicons.org/cypress/FFFFFF" width="60" title="Cypress" alt="Cypress" style="margin-right: 30px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" title="Visual Studio Code" alt="Visual Studio Code" style="margin-right: 30px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="60" title="IntelliJ IDEA" alt="IntelliJ IDEA" style="margin-right: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="60" title="Eclipse" alt="Eclipse">
 </p>
 
