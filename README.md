@@ -86,9 +86,11 @@ Linguagens & Tecnologias: `Python`, `Selenium`, `TIR`, `Azure DevOps`, `Oracle S
 <a href="mailto:b.cezar1812@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/bernardocezaralvesdeoliveira/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://instagram.com/ber_cezar" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
