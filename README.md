@@ -77,10 +77,6 @@ Linguagens & Tecnologias: `Python`, `Selenium`, `TIR`, `Azure DevOps`, `Oracle S
 ---
 
 
-### 📊 Estatísticas
-https://github-stats-extended.vercel.app/api/top-langs/?username=bercezar&langs_count=4&theme=light_github
----
-
 ### 📫 Onde me encontrar
 
 <a href="mailto:b.cezar1812@gmail.com" target="_blank">
